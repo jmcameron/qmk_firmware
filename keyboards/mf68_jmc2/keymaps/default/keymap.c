@@ -15,9 +15,6 @@ enum layers {
 #define LAYER2 TO(MEDIA_LAYER)
 
 #define FN_CAPS LT(FN_LAYER, KC_CAPS)
-// #define MED_LAY TT(MEDIA_LAYER)
-
-// #define TAPPING_TOGGLE 2
 
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {

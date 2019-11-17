@@ -1,4 +1,4 @@
-#include "mf68_jmc.h"
+#include "mf68_jmc2.h"
 
 void matrix_init_kb(void) 
 {

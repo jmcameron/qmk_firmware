@@ -20,12 +20,12 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #include "config_common.h"
 
 /* USB Device descriptor parameter */
-#define VENDOR_ID       0xCEEB
-#define PRODUCT_ID      0x0510
+#define VENDOR_ID       0xFEED
+#define PRODUCT_ID      0x6893
 #define DEVICE_VER      0x0101
-#define MANUFACTURER    di0ib
-#define PRODUCT         MF68
-#define DESCRIPTION     Magicforce 68 with programmable PCB replacement
+#define MANUFACTURER    JMC
+#define PRODUCT         MF68jmc1
+#define DESCRIPTION     Magicforce 68 with 40% Club replacement PCB by Jonathan Cameron
 
 /* key matrix size */
 #define MATRIX_ROWS 8

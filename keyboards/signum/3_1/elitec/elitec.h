@@ -2,10 +2,10 @@
 
 #include "quantum.h"
 
-/* #define RED_LED F0 */
-/* #define BLUE_LED F1 */
-/* #define GREEN_LED C7 */
-/* #define ORANGE_LED D5 */
+#define RED_LED F0
+#define BLUE_LED F1
+#define GREEN_LED C7
+#define ORANGE_LED D5
 
 #define LAYOUT_ortho_5x12( \
     K01, K02, K03, K04, K05, K06,   K07, K08, K09, K10, K11, K12, \
@@ -22,7 +22,5 @@
     { K54, K42, K30, K18, K06,   K07, K19, K31, K43, K55 } \
 }
 
-/*
 void turn_off_leds(void);
 void turn_on_led(pin_t pin);
-*/
